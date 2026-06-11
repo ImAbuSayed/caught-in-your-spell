@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caught In Your Spell
+
+This log tracks the cryptographic history and versioning for the song **Caught In Your Spell** (caught-in-your-spell).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-11T19:22:51.203502 | `v1` | `c35da0c6c83de4b9dc84ceb4891accbe32d7610918d0f3da49bb8eaaee1d2ed7` | `4521dac806c63a93bfc771c05e2d4e8fec19068901f59d681c7b52325bcd65fb` | `2026-06-11_caught-in-your-spell-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
