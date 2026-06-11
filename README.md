@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caught-in-your-spell/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Caught In Your Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-spell/) |
+| **Get License** | [Obtain a Music License for Caught In Your Spell](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caught-in-your-spell/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3028)
 
 ---
 
